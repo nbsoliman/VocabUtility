@@ -22,7 +22,8 @@ class FlashcardApp(QWidget):
         self.setWindowOpacity(0.9)
         self.resize(100, 10)
         self.setWindowFlag(Qt.WindowType.WindowStaysOnTopHint, True)
-        screen = QGuiApplication.screens()[3]
+        self.screen_index = 3
+        screen = QGuiApplication.screens()[self.screen_index]
         geometry = screen.availableGeometry()
         self.move(geometry.x() + 40, geometry.y() + int((geometry.height() - self.height()) / 2) + 200)
 
@@ -97,7 +98,7 @@ class FlashcardApp(QWidget):
             self.guessed_word_incorrectly = True
         elif user_input.lower() == 'ls':
             self.openListWindow()
-        elif user_input.lower() == 'f': #f ilter
+        elif user_input.lower() == 'f': #filter
             self.show_known_values_only = not self.show_known_values_only
             if self.show_known_values_only:
                 self.desc_label.setText("Skipping known words.")
@@ -119,8 +120,9 @@ class FlashcardApp(QWidget):
                 "'r'       : Restart\n"
                 "'e'       : Example in EN\n"
                 "'k'       : Example in KR\n"
-                "'ls'      : Open List Windw\n"
+                "'ls'      : Open List Window\n"
                 "'f'       : Filter Knowns\n"
+                "'n'       : Next Screen\n"
                 "'lang'    : Switch Language\n"
                 "'clear'   : Reset Knowns\n"
                 "'esc'/'q' : Quit"
@@ -131,6 +133,12 @@ class FlashcardApp(QWidget):
                 self.flashcards[self.index]['known'] = True
                 self.writeToFile()
             self.nextWord()
+        elif user_input.lower() == 'n':
+            self.screen_index += 1
+            self.screen_index = self.screen_index % len(QGuiApplication.screens())
+            screen = QGuiApplication.screens()[self.screen_index]
+            geometry = screen.availableGeometry()
+            self.move(geometry.x() + 40, geometry.y() + int((geometry.height() - self.height()) / 2) + 200)
         else:
             self.guessed_word_incorrectly = True
             self.desc_label.setText(f"Incorrect. Try again.")
