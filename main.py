@@ -22,7 +22,7 @@ class FlashcardApp(QWidget):
         self.setWindowOpacity(0.9)
         self.resize(100, 10)
         self.setWindowFlag(Qt.WindowType.WindowStaysOnTopHint, True)
-        self.screen_index = 3
+        self.screen_index = 0
         screen = QGuiApplication.screens()[self.screen_index]
         geometry = screen.availableGeometry()
         self.move(geometry.x() + 40, geometry.y() + int((geometry.height() - self.height()) / 2) + 200)
@@ -55,7 +55,7 @@ class FlashcardApp(QWidget):
         self.nextWord()
 
     def writeToFile(self):
-        with open('C:/Users/soliman-nicholas/OneDrive - AirbusDSGS/Documents/etc/k/data/all.json', 'w', encoding='utf-8') as f:
+        with open('data/all.json', 'w', encoding='utf-8') as f:
             json.dump(self.flashcards, f, ensure_ascii=False, indent=2)
 
     def switchLanguage(self, state):
@@ -283,7 +283,7 @@ class ListWindow(QWidget):
         super().keyPressEvent(event)
 
 def load_flashcards():
-    with open('C:/Users/soliman-nicholas/OneDrive - AirbusDSGS/Documents/etc/k/data/all.json', 'r', encoding='utf-8') as f:
+    with open('data/all.json', 'r', encoding='utf-8') as f:
         return json.load(f)
     
 def main():
