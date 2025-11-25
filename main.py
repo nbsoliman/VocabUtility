@@ -1,5 +1,5 @@
 import sys
-import json, time
+import json, time, re
 from PyQt6.QtWidgets import *
 from PyQt6.QtGui import *
 from PyQt6.QtCore import *
@@ -55,7 +55,7 @@ class FlashcardApp(QWidget):
         self.nextWord()
 
     def writeToFile(self):
-        with open('C:/Users/soliman-nicholas/OneDrive - AirbusDSGS/Documents/etc/k/data/all.json', 'w', encoding='utf-8') as f:
+        with open('data/all.json', 'w', encoding='utf-8') as f:
             json.dump(self.flashcards, f, ensure_ascii=False, indent=2)
 
     def switchLanguage(self, state):
@@ -128,7 +128,7 @@ class FlashcardApp(QWidget):
                 "'esc'/'q' : Quit"
             )
             # self.desc_label.setWordWrap(True)
-        elif user_input.lower() == correct_answer.lower():
+        elif user_input.lower().replace(" ", "") == correct_answer.lower().replace(" ", ""):
             if not self.guessed_word_incorrectly:
                 self.flashcards[self.index]['known'] = True
                 self.writeToFile()
@@ -283,7 +283,7 @@ class ListWindow(QWidget):
         super().keyPressEvent(event)
 
 def load_flashcards():
-    with open('C:/Users/soliman-nicholas/OneDrive - AirbusDSGS/Documents/etc/k/data/all.json', 'r', encoding='utf-8') as f:
+    with open('data/all.json', 'r', encoding='utf-8') as f:
         return json.load(f)
     
 def main():

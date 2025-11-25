@@ -1,318 +1,318 @@
 [
-{
-“word”: “께”,
-“useful_for_flashcard”: true,
-“cefr_level”: “A2”,
-“english_translation”: “to (honorific dative)”,
-“romanization”: “kke”,
-“example_sentence_native”: “할아버지께 선물을 드렸어요.”,
-“example_sentence_english”: “I gave a present to my grandfather.”,
-“frequency_index”: 86,
-“known”: false
-},
-{
-“word”: “께서”,
-“useful_for_flashcard”: true,
-“cefr_level”: “A2”,
-“english_translation”: “honorific subject marker”,
-“romanization”: “kkeseo”,
-“example_sentence_native”: “선생님께서 오셨어요.”,
-“example_sentence_english”: “The teacher has come.”,
-“frequency_index”: 80,
-“known”: false
-},
-{
-“word”: “에게”,
-“useful_for_flashcard”: true,
-“cefr_level”: “A1”,
-“english_translation”: “to (recipient)”,
-“romanization”: “ege”,
-“example_sentence_native”: “친구에게 편지를 보냈어요.”,
-“example_sentence_english”: “I sent a letter to my friend.”,
-“frequency_index”: 92,
-“known”: false
-},
-{
-“word”: “에게서”,
-“useful_for_flashcard”: true,
-“cefr_level”: “A2”,
-“english_translation”: “from (source, person/animal)”,
-“romanization”: “egeseo”,
-“example_sentence_native”: “친구에게서 선물을 받았어요.”,
-“example_sentence_english”: “I received a gift from a friend.”,
-“frequency_index”: 78,
-“known”: false
-},
-{
-“word”: “한테”,
-“useful_for_flashcard”: true,
-“cefr_level”: “A1”,
-“english_translation”: “to (informal)”,
-“romanization”: “hante”,
-“example_sentence_native”: “동생한테 돈을 빌렸어요.”,
-“example_sentence_english”: “I borrowed money from my younger sibling.”,
-“frequency_index”: 90,
-“known”: false
-},
-{
-“word”: “한테서”,
-“useful_for_flashcard”: true,
-“cefr_level”: “A2”,
-“english_translation”: “from (informal)”,
-“romanization”: “hanteseo”,
-“example_sentence_native”: “선생님한테서 한국어를 배워요.”,
-“example_sentence_english”: “I learn Korean from my teacher.”,
-“frequency_index”: 77,
-“known”: false
-},
-{
-“word”: “(이)나”,
-“useful_for_flashcard”: true,
-“cefr_level”: “A1”,
-“english_translation”: “or; (sometimes) even/rather”,
-“romanization”: “(i)na”,
-“example_sentence_native”: “커피나 차 마실래요?”,
-“example_sentence_english”: “Do you want coffee or tea?”,
-“frequency_index”: 94,
-“known”: false
-},
-{
-“word”: “만”,
-“useful_for_flashcard”: true,
-“cefr_level”: “A1”,
-“english_translation”: “only; just”,
-“romanization”: “man”,
-“example_sentence_native”: “물만 마셨어요.”,
-“example_sentence_english”: “I only drank water.”,
-“frequency_index”: 93,
-“known”: false
-},
-{
-“word”: “의”,
-“useful_for_flashcard”: true,
-“cefr_level”: “A1”,
-“english_translation”: “possessive marker (’s/of)”,
-“romanization”: “ui”,
-“example_sentence_native”: “유키의 가방이에요.”,
-“example_sentence_english”: “It is Yuki’s bag.”,
-“frequency_index”: 95,
-“known”: false
-},
-{
-“word”: “마다”,
-“useful_for_flashcard”: true,
-“cefr_level”: “A2”,
-“english_translation”: “every; each; whenever”,
-“romanization”: “mada”,
-“example_sentence_native”: “주말마다 등산해요.”,
-“example_sentence_english”: “I go hiking every weekend.”,
-“frequency_index”: 82,
-“known”: false
-},
-{
-“word”: “밖에”,
-“useful_for_flashcard”: true,
-“cefr_level”: “A2”,
-“english_translation”: “nothing but; only (with negatives)”,
-“romanization”: “bakke”,
-“example_sentence_native”: “돈이 천 원밖에 없어요.”,
-“example_sentence_english”: “I have only 1,000 won.”,
-“frequency_index”: 79,
-“known”: false
-},
-{
-“word”: “보다”,
-“useful_for_flashcard”: true,
-“cefr_level”: “A2”,
-“english_translation”: “than; compared to”,
-“romanization”: “boda”,
-“example_sentence_native”: “사과가 배보다 달아요.”,
-“example_sentence_english”: “Apples are sweeter than pears.”,
-“frequency_index”: 88,
-“known”: false
-},
-{
-“word”: “처럼”,
-“useful_for_flashcard”: true,
-“cefr_level”: “A2”,
-“english_translation”: “like; similar to”,
-“romanization”: “cheoreom”,
-“example_sentence_native”: “꿈처럼 아름다웠어요.”,
-“example_sentence_english”: “It was beautiful like a dream.”,
-“frequency_index”: 84,
-“known”: false
-},
-{
-“word”: “(으)ㄴ 것 같다”,
-“useful_for_flashcard”: true,
-“cefr_level”: “B1”,
-“english_translation”: “it seems/looks like (past state or descriptive)”,
-“romanization”: “(eu)n geot gatda”,
-“example_sentence_native”: “비가 온 것 같아요.”,
-“example_sentence_english”: “It seems like it rained.”,
-“frequency_index”: 83,
-“known”: false
-},
-{
-“word”: “(으)ᆯ 것 같다”,
-“useful_for_flashcard”: true,
-“cefr_level”: “B1”,
-“english_translation”: “it seems/likely to (future or guess)”,
-“romanization”: “(eu)l geot gatda”,
-“example_sentence_native”: “내일 비가 올 것 같아요.”,
-“example_sentence_english”: “It looks like it will rain tomorrow.”,
-“frequency_index”: 85,
-“known”: false
-},
+  {
+    "word": "께",
+    "useful_for_flashcard": true,
+    "cefr_level": "A2",
+    "english_translation": "to (honorific)",
+    "romanization": "kke",
+    "example_sentence_native": "할아버지께 선물을 드렸어요.",
+    "example_sentence_english": "I gave a present to my grandfather.",
+    "frequency_index": 86,
+    "known": true
+  },
+  {
+    "word": "께서",
+    "useful_for_flashcard": true,
+    "cefr_level": "A2",
+    "english_translation": "honorific subject marker",
+    "romanization": "kkeseo",
+    "example_sentence_native": "선생님께서 오셨어요.",
+    "example_sentence_english": "The teacher has come.",
+    "frequency_index": 80,
+    "known": true
+  },
+  {
+    "word": "에게",
+    "useful_for_flashcard": true,
+    "cefr_level": "A1",
+    "english_translation": "to (recipient)",
+    "romanization": "ege",
+    "example_sentence_native": "친구에게 편지를 보냈어요.",
+    "example_sentence_english": "I sent a letter to my friend.",
+    "frequency_index": 92,
+    "known": true
+  },
+  {
+    "word": "에게서",
+    "useful_for_flashcard": true,
+    "cefr_level": "A2",
+    "english_translation": "from (source, person/animal)",
+    "romanization": "egeseo",
+    "example_sentence_native": "친구에게서 선물을 받았어요.",
+    "example_sentence_english": "I received a gift from a friend.",
+    "frequency_index": 78,
+    "known": true
+  },
+  {
+    "word": "한테",
+    "useful_for_flashcard": true,
+    "cefr_level": "A1",
+    "english_translation": "to (informal)",
+    "romanization": "hante",
+    "example_sentence_native": "동생한테 돈을 빌렸어요.",
+    "example_sentence_english": "I borrowed money from my younger sibling.",
+    "frequency_index": 90,
+    "known": true
+  },
+  {
+    "word": "한테서",
+    "useful_for_flashcard": true,
+    "cefr_level": "A2",
+    "english_translation": "from (informal)",
+    "romanization": "hanteseo",
+    "example_sentence_native": "선생님한테서 한국어를 배워요.",
+    "example_sentence_english": "I learn Korean from my teacher.",
+    "frequency_index": 77,
+    "known": true
+  },
+  {
+    "word": "(이)나",
+    "useful_for_flashcard": true,
+    "cefr_level": "A1",
+    "english_translation": "or; (sometimes) even/rather",
+    "romanization": "(i)na",
+    "example_sentence_native": "커피나 차 마실래요?",
+    "example_sentence_english": "Do you want coffee or tea?",
+    "frequency_index": 94,
+    "known": true
+  },
+  {
+    "word": "만",
+    "useful_for_flashcard": true,
+    "cefr_level": "A1",
+    "english_translation": "only; just",
+    "romanization": "man",
+    "example_sentence_native": "물만 마셨어요.",
+    "example_sentence_english": "I only drank water.",
+    "frequency_index": 93,
+    "known": true
+  },
+  {
+    "word": "의",
+    "useful_for_flashcard": true,
+    "cefr_level": "A1",
+    "english_translation": "possessive marker (’s/of)",
+    "romanization": "ui",
+    "example_sentence_native": "유키의 가방이에요.",
+    "example_sentence_english": "It is Yuki’s bag.",
+    "frequency_index": 95,
+    "known": true
+  },
+  {
+    "word": "마다",
+    "useful_for_flashcard": true,
+    "cefr_level": "A2",
+    "english_translation": "every; each; whenever",
+    "romanization": "mada",
+    "example_sentence_native": "주말마다 등산해요.",
+    "example_sentence_english": "I go hiking every weekend.",
+    "frequency_index": 82,
+    "known": true
+  },
+  {
+    "word": "밖에",
+    "useful_for_flashcard": true,
+    "cefr_level": "A2",
+    "english_translation": "nothing but; only (with negatives)",
+    "romanization": "bakke",
+    "example_sentence_native": "돈이 천 원밖에 없어요.",
+    "example_sentence_english": "I have only 1,000 won.",
+    "frequency_index": 79,
+    "known": true
+  },
+  {
+    "word": "보다",
+    "useful_for_flashcard": true,
+    "cefr_level": "A2",
+    "english_translation": "than; compared to",
+    "romanization": "boda",
+    "example_sentence_native": "사과가 배보다 달아요.",
+    "example_sentence_english": "Apples are sweeter than pears.",
+    "frequency_index": 88,
+    "known": true
+  },
+  {
+    "word": "처럼",
+    "useful_for_flashcard": true,
+    "cefr_level": "A2",
+    "english_translation": "like; similar to",
+    "romanization": "cheoreom",
+    "example_sentence_native": "꿈처럼 아름다웠어요.",
+    "example_sentence_english": "It was beautiful like a dream.",
+    "frequency_index": 84,
+    "known": true
+  },
+  {
+    "word": "(으)ㄴ 것 같다",
+    "useful_for_flashcard": true,
+    "cefr_level": "B1",
+    "english_translation": "it seems/looks like (past state or descriptive)",
+    "romanization": "eun geot gatda",
+    "example_sentence_native": "비가 온 것 같아요.",
+    "example_sentence_english": "It seems like it rained.",
+    "frequency_index": 83,
+    "known": true
+  },
+  {
+    "word": "(으)ᆯ 것 같다",
+    "useful_for_flashcard": true,
+    "cefr_level": "B1",
+    "english_translation": "it seems/likely to (future or guess)",
+    "romanization": "eul geot gatda",
+    "example_sentence_native": "내일 비가 올 것 같아요.",
+    "example_sentence_english": "It looks like it will rain tomorrow.",
+    "frequency_index": 85,
+    "known": true
+  },
   {
     "word": "(으)ㄴ 적이 있다",
     "useful_for_flashcard": true,
     "cefr_level": "B1",
     "english_translation": "I have (experience)",
-    "romanization": "(eu)n jeogi itda",
+    "romanization": "eun jeogi itda",
     "example_sentence_native": "한국에 간 적이 있어요.",
     "example_sentence_english": "I have been to Korea.",
     "frequency_index": 78,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)ㄴ 적이 없다",
     "useful_for_flashcard": true,
     "cefr_level": "B1",
     "english_translation": "I have not (experience)",
-    "romanization": "(eu)n jeogi eopda",
+    "romanization": "eun jeogi eopda",
     "example_sentence_native": "그 영화를 본 적이 없어요.",
     "example_sentence_english": "I have not seen that movie.",
     "frequency_index": 77,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)ㄴ 지",
     "useful_for_flashcard": true,
     "cefr_level": "B1",
     "english_translation": "since; how long since",
-    "romanization": "(eu)n ji",
+    "romanization": "eun ji",
     "example_sentence_native": "한국에 온 지 1년 됐어요.",
     "example_sentence_english": "It has been one year since I came to Korea.",
     "frequency_index": 80,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)ㄴ 후에",
     "useful_for_flashcard": true,
     "cefr_level": "A2",
     "english_translation": "after",
-    "romanization": "(eu)n hue",
+    "romanization": "eun hue",
     "example_sentence_native": "식사한 후에 산책했어요.",
     "example_sentence_english": "After eating, I took a walk.",
     "frequency_index": 82,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)ㄴ데(요)",
     "useful_for_flashcard": true,
     "cefr_level": "B1",
     "english_translation": "although; but",
-    "romanization": "(eu)nde(yo)",
+    "romanization": "eunde(yo)",
     "example_sentence_native": "맛있는데 비싸요.",
     "example_sentence_english": "It’s delicious, but expensive.",
     "frequency_index": 81,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)니까",
     "useful_for_flashcard": true,
     "cefr_level": "A2",
     "english_translation": "because; since",
-    "romanization": "(eu)nikka",
+    "romanization": "eunikka",
     "example_sentence_native": "피곤하니까 집에 갈게요.",
     "example_sentence_english": "Since I’m tired, I’ll go home.",
     "frequency_index": 84,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)ㄹ 것이다",
     "useful_for_flashcard": true,
     "cefr_level": "B1",
     "english_translation": "will be",
-    "romanization": "(eu)l geosida",
+    "romanization": "eul geosida",
     "example_sentence_native": "내일은 바쁠 것이다.",
     "example_sentence_english": "I will be busy tomorrow.",
     "frequency_index": 83,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)ㄹ 때",
     "useful_for_flashcard": true,
     "cefr_level": "A2",
     "english_translation": "when",
-    "romanization": "(eu)l ttae",
+    "romanization": "eul ttae",
     "example_sentence_native": "학생일 때 열심히 공부했어요.",
     "example_sentence_english": "When I was a student, I studied hard.",
     "frequency_index": 85,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)ㄹ 수 있다",
     "useful_for_flashcard": true,
     "cefr_level": "A2",
     "english_translation": "can",
-    "romanization": "(eu)l su itda",
+    "romanization": "eul su itda",
     "example_sentence_native": "한국어를 읽을 수 있어요.",
     "example_sentence_english": "I can read Korean.",
     "frequency_index": 89,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)ㄹ 수 없다",
     "useful_for_flashcard": true,
     "cefr_level": "A2",
     "english_translation": "cannot",
-    "romanization": "(eu)l su eopda",
+    "romanization": "eul su eopda",
     "example_sentence_native": "너무 피곤해서 갈 수 없어요.",
     "example_sentence_english": "I cannot go because I’m too tired.",
     "frequency_index": 88,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)ㄹ게요",
     "useful_for_flashcard": true,
     "cefr_level": "A2",
     "english_translation": "will (promise/intention)",
-    "romanization": "(eu)lgeyo",
+    "romanization": "eulgeyo",
     "example_sentence_native": "제가 도와줄게요.",
     "example_sentence_english": "I will help you.",
     "frequency_index": 86,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)ㄹ까 하다",
     "useful_for_flashcard": true,
     "cefr_level": "B1",
     "english_translation": "am thinking of",
-    "romanization": "(eu)l kka hada",
+    "romanization": "eul kka hada",
     "example_sentence_native": "한국에서 공부할까 해요.",
     "example_sentence_english": "I am thinking of studying in Korea.",
     "frequency_index": 79,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)ㄹ까 봐",
     "useful_for_flashcard": true,
     "cefr_level": "B1",
     "english_translation": "worried that",
-    "romanization": "(eu)l kka bwa",
+    "romanization": "eul kka bwa",
     "example_sentence_native": "늦을까 봐 택시를 탔어요.",
     "example_sentence_english": "I took a taxi because I was worried I would be late.",
     "frequency_index": 80,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)ㄹ까요?",
     "useful_for_flashcard": true,
     "cefr_level": "A2",
     "english_translation": "shall we / should we",
-    "romanization": "(eu)l kkayo?",
+    "romanization": "eul kkayo?",
     "example_sentence_native": "같이 점심 먹을까요?",
     "example_sentence_english": "Shall we have lunch together?",
     "frequency_index": 87,
@@ -323,18 +323,18 @@
     "useful_for_flashcard": true,
     "cefr_level": "A2",
     "english_translation": "will (want/intention)",
-    "romanization": "(eu)l laeyo",
+    "romanization": "eul laeyo",
     "example_sentence_native": "저는 집에 갈래요.",
     "example_sentence_english": "I will go home.",
     "frequency_index": 88,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)ㄹ래요?",
     "useful_for_flashcard": true,
     "cefr_level": "A2",
     "english_translation": "would you",
-    "romanization": "(eu)l laeyo?",
+    "romanization": "eul laeyo?",
     "example_sentence_native": "커피 마실래요?",
     "example_sentence_english": "Would you like to drink coffee?",
     "frequency_index": 89,
@@ -360,7 +360,7 @@
     "example_sentence_native": "친구가 저를 만나러 왔어요.",
     "example_sentence_english": "My friend came to meet me.",
     "frequency_index": 83,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)려고",
@@ -733,7 +733,7 @@
     "romanization": "i/ga anida",
     "example_sentence_native": "저는 선생님이 아니에요.",
     "example_sentence_english": "I am not a teacher.",
-    "frequency_index": 94,
+    "frequency_index": 74,
     "known": false
   },
   {
@@ -745,7 +745,7 @@
     "example_sentence_native": "저는 유명한 요리사가 되고 싶어요.",
     "example_sentence_english": "I want to become a famous chef.",
     "frequency_index": 75,
-    "known": true
+    "known": false
   },
   {
     "word": "관광 안내원",
@@ -756,7 +756,7 @@
     "example_sentence_native": "여름에는 관광 안내원으로 일하고 싶어요.",
     "example_sentence_english": "I want to work as a tourist guide during the summer.",
     "frequency_index": 85,
-    "known": true
+    "known": false
   },
   {
     "word": "사업가",
@@ -767,7 +767,7 @@
     "example_sentence_native": "성공한 사업가가 되는 것이 제 꿈이에요.",
     "example_sentence_english": "My dream is to become a successful entrepreneur.",
     "frequency_index": 90,
-    "known": true
+    "known": false
   },
   {
     "word": "영화배우",
@@ -778,7 +778,7 @@
     "example_sentence_native": "저는 영화배우가 되고 싶어요.",
     "example_sentence_english": "I want to become a movie actor.",
     "frequency_index": 70,
-    "known": true
+    "known": false
   },
   {
     "word": "약사",
@@ -789,7 +789,7 @@
     "example_sentence_native": "약사로 사람들을 돕고 싶어요.",
     "example_sentence_english": "I want to help people as a pharmacist.",
     "frequency_index": 80,
-    "known": true
+    "known": false
   },
   {
     "word": "가수",
@@ -800,7 +800,7 @@
     "example_sentence_native": "저는 가수로 데뷔하고 싶어요.",
     "example_sentence_english": "I want to debut as a singer.",
     "frequency_index": 65,
-    "known": true
+    "known": false
   },
   {
     "word": "간호사",
@@ -811,7 +811,7 @@
     "example_sentence_native": "간호사로서 많은 사람들을 돕고 싶어요.",
     "example_sentence_english": "I want to help many people as a nurse.",
     "frequency_index": 95,
-    "known": true
+    "known": false
   },
   {
     "word": "미용사",
@@ -822,7 +822,7 @@
     "example_sentence_native": "미용사가 되어서 사람들을 아름답게 해주고 싶어요.",
     "example_sentence_english": "I want to make people beautiful as a hairdresser.",
     "frequency_index": 78,
-    "known": true
+    "known": false
   },
   {
     "word": "선생님이 되다",
@@ -28968,8 +28968,8 @@
     "cefr_level": "A2",
     "english_translation": "good (loanword)",
     "romanization": "gut",
-    "example_sentence_native": "“굿 아이디어!”라고 외쳤다.",
-    "example_sentence_english": "He shouted, “Good idea!”",
+    "example_sentence_native": "'굿 아이디어!'라고 외쳤다.",
+    "example_sentence_english": "He shouted, 'Good idea!'",
     "frequency_index": 2513,
     "known": false
   },
@@ -33141,7 +33141,5 @@
     "example_sentence_english": "Ducks are swimming in the pond.",
     "frequency_index": 2892,
     "known": false
-  },
-  {
-    "word": "왠지",
-    "useful_for_flashcard": t
+  }
+]
