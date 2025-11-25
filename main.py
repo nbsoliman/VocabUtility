@@ -22,7 +22,7 @@ class FlashcardApp(QWidget):
         self.setWindowOpacity(0.9)
         self.resize(100, 10)
         self.setWindowFlag(Qt.WindowType.WindowStaysOnTopHint, True)
-        self.screen_index = 3
+        self.screen_index = 0
         screen = QGuiApplication.screens()[self.screen_index]
         geometry = screen.availableGeometry()
         self.move(geometry.x() + 40, geometry.y() + int((geometry.height() - self.height()) / 2) + 200)
