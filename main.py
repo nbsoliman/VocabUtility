@@ -76,6 +76,7 @@ class FlashcardApp(QWidget):
     def checkAnswer(self):
         card = self.flashcards[self.index]
         user_input = self.inputField.text().strip()
+        user_input = user_input.replace('(', '').replace(')', '') # remove parentheses
 
         if self.language_choice == 'k':
             correct_answer = card['english_translation']
@@ -128,7 +129,7 @@ class FlashcardApp(QWidget):
                 "'esc'/'q' : Quit"
             )
             # self.desc_label.setWordWrap(True)
-        elif user_input.lower().replace(" ", "") == correct_answer.lower().replace(" ", ""):
+        elif user_input.lower().replace(" ", "").replace('(', '').replace(')', '') == correct_answer.lower().replace(" ", "").replace('(', '').replace(')', ''):
             if not self.guessed_word_incorrectly:
                 self.flashcards[self.index]['known'] = True
                 self.writeToFile()

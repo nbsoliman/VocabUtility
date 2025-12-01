@@ -213,7 +213,7 @@
     "useful_for_flashcard": true,
     "cefr_level": "B1",
     "english_translation": "although; but",
-    "romanization": "eunde(yo)",
+    "romanization": "eunde",
     "example_sentence_native": "맛있는데 비싸요.",
     "example_sentence_english": "It’s delicious, but expensive.",
     "frequency_index": 81,
@@ -239,7 +239,7 @@
     "example_sentence_native": "내일은 바쁠 것이다.",
     "example_sentence_english": "I will be busy tomorrow.",
     "frequency_index": 83,
-    "known": true
+    "known": false
   },
   {
     "word": "(으)ㄹ 때",
@@ -294,7 +294,7 @@
     "example_sentence_native": "한국에서 공부할까 해요.",
     "example_sentence_english": "I am thinking of studying in Korea.",
     "frequency_index": 79,
-    "known": true
+    "known": false
   },
   {
     "word": "(으)ㄹ까 봐",
@@ -312,7 +312,7 @@
     "useful_for_flashcard": true,
     "cefr_level": "A2",
     "english_translation": "shall we / should we",
-    "romanization": "eul kkayo?",
+    "romanization": "eul kkayo",
     "example_sentence_native": "같이 점심 먹을까요?",
     "example_sentence_english": "Shall we have lunch together?",
     "frequency_index": 87,
@@ -327,14 +327,14 @@
     "example_sentence_native": "저는 집에 갈래요.",
     "example_sentence_english": "I will go home.",
     "frequency_index": 88,
-    "known": true
+    "known": false
   },
   {
     "word": "(으)ㄹ래요?",
     "useful_for_flashcard": true,
     "cefr_level": "A2",
     "english_translation": "would you",
-    "romanization": "eul laeyo?",
+    "romanization": "eul laeyo",
     "example_sentence_native": "커피 마실래요?",
     "example_sentence_english": "Would you like to drink coffee?",
     "frequency_index": 89,
@@ -382,7 +382,7 @@
     "example_sentence_native": "책을 읽으려고요.",
     "example_sentence_english": "I’m planning to read a book.",
     "frequency_index": 84,
-    "known": false
+    "known": true
   },
   {
     "word": "(으)면",
@@ -400,7 +400,7 @@
     "useful_for_flashcard": true,
     "cefr_level": "B1",
     "english_translation": "while",
-    "romanization": "(eu)myeonse",
+    "romanization": "(eu)myeonseo",
     "example_sentence_native": "음악을 들으면서 공부해요.",
     "example_sentence_english": "I study while listening to music.",
     "frequency_index": 86,
@@ -444,7 +444,7 @@
     "useful_for_flashcard": true,
     "cefr_level": "A2",
     "english_translation": "right?",
-    "romanization": "(i)jiyo?",
+    "romanization": "(i)jiyo",
     "example_sentence_native": "이게 당신의 책이지요?",
     "example_sentence_english": "This is your book, right?",
     "frequency_index": 85,
@@ -454,12 +454,12 @@
     "word": "거나",
     "useful_for_flashcard": true,
     "cefr_level": "A2",
-    "english_translation": "and/or",
+    "english_translation": "and/or (verbs)",
     "romanization": "geona",
     "example_sentence_native": "책을 읽거나 음악을 들어요.",
     "example_sentence_english": "I read books or listen to music.",
     "frequency_index": 88,
-    "known": false
+    "known": true
   },
   {
     "word": "게",
@@ -594,18 +594,18 @@
     "known": false
   },
   {
-    "word": "ㅂ/습니다까?",
+    "word": "습니까?",
     "useful_for_flashcard": true,
     "cefr_level": "B1",
     "english_translation": "formal polite question",
-    "romanization": "b/seumnikka?",
+    "romanization": "seumnikka",
     "example_sentence_native": "이게 맞습니까?",
     "example_sentence_english": "Is this correct?",
     "frequency_index": 78,
     "known": false
   },
   {
-    "word": "ㅂ/습니다",
+    "word": "습니다",
     "useful_for_flashcard": true,
     "cefr_level": "A2",
     "english_translation": "formal polite statement",
